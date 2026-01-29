@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 851.0194826126099,
+  "sizeMB": 851.6066265106201,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -917,6 +917,7 @@
     "legendof-renamonv-0.2",
     "ts2editmap",
     "mariosadventure2",
-    "trac1"
+    "trac1",
+    "1100_fish_hunt"
   ]
 }
