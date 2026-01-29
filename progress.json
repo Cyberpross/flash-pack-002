@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 6.839313507080078,
+  "sizeMB": 8.101806640625,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -549,6 +549,7 @@
     "egg-defender",
     "1100_full_contact_curling",
     "1100_lamer_hunter",
-    "1100_mordor_mountain_madness"
+    "1100_mordor_mountain_madness",
+    "1100_nemos_revenge"
   ]
 }
