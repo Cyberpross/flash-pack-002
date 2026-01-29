@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 524.6815881729126,
+  "sizeMB": 525.612455368042,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -784,6 +784,7 @@
     "1100_gopher_it",
     "puzzle02",
     "CombatInstinct2_McFretN",
-    "62_20240810"
+    "62_20240810",
+    "r_evolution_"
   ]
 }
