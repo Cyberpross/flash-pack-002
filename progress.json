@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 295.9554214477539,
+  "sizeMB": 296.237624168396,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -667,6 +667,7 @@
     "edgyWedgy2",
     "doughnut_202405",
     "early-test-build",
-    "duck-life-1"
+    "duck-life-1",
+    "duckhunt1"
   ]
 }
