@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 976.7085466384888,
+  "sizeMB": 976.9895915985107,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -994,6 +994,7 @@
     "match-shapes",
     "mario-space-age",
     "robot_dinosaurs",
-    "silas-clean-the-puke"
+    "silas-clean-the-puke",
+    "snowstorm_20191122"
   ]
 }
