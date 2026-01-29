@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 126.4446792602539,
+  "sizeMB": 126.76215934753418,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -610,6 +610,7 @@
     "eggs_",
     "alloy-arena_202211",
     "gatesvsjobs",
-    "frenzy-airport"
+    "frenzy-airport",
+    "flocker"
   ]
 }
