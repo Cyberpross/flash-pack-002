@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 119.4984827041626,
+  "sizeMB": 119.58395671844482,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -606,6 +606,7 @@
     "defender_20220404",
     "destroythevillage",
     "donut-empire",
-    "dodgethedot_flash"
+    "dodgethedot_flash",
+    "eggs_"
   ]
 }
