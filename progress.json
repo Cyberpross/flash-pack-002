@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 418.9819097518921,
+  "sizeMB": 419.0465040206909,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -717,6 +717,7 @@
     "3d-urban-madness-2",
     "bubble-gum-run",
     "wodora_type",
-    "natsumistep"
+    "natsumistep",
+    "1100_heliattack"
   ]
 }
