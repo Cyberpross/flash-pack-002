@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 102.57364845275879,
+  "sizeMB": 103.69493579864502,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -588,6 +588,7 @@
     "concentration_flash",
     "flash_dress-up-your-daisy-duck",
     "episode-4-melee",
-    "f1-challenge"
+    "f1-challenge",
+    "bagGame"
   ]
 }
