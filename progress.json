@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 6.640253067016602,
+  "sizeMB": 6.839313507080078,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -548,6 +548,7 @@
     "drivers_ed_direct_parking_game",
     "egg-defender",
     "1100_full_contact_curling",
-    "1100_lamer_hunter"
+    "1100_lamer_hunter",
+    "1100_mordor_mountain_madness"
   ]
 }
