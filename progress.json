@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 594.6621522903442,
+  "sizeMB": 594.9354581832886,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -812,6 +812,7 @@
     "1100_ponky",
     "1100_teletubbies",
     "1100_free_cell_solitaire",
-    "1100_mah_jongg"
+    "1100_mah_jongg",
+    "1100_war"
   ]
 }
