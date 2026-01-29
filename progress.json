@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 347.2538814544678,
+  "sizeMB": 347.8043622970581,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -676,6 +676,7 @@
     "cyberchase_hardproblems_flash",
     "cyberchase_stop_that_creature_flash",
     "derpymuffin_swf",
-    "crashbandicoot_202106"
+    "crashbandicoot_202106",
+    "crimson_room"
   ]
 }
