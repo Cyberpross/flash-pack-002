@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 915.5486907958984,
+  "sizeMB": 916.4581909179688,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -971,6 +971,7 @@
     "kirbyminispeil",
     "mall-brawl",
     "dressupkirby",
-    "secret-sheep-level"
+    "secret-sheep-level",
+    "shredoku"
   ]
 }
