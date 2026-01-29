@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 851.6066265106201,
+  "sizeMB": 851.91379737854,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -918,6 +918,7 @@
     "ts2editmap",
     "mariosadventure2",
     "trac1",
-    "1100_fish_hunt"
+    "1100_fish_hunt",
+    "1100_super_bobby_world"
   ]
 }
