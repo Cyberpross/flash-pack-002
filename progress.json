@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 428.86369705200195,
+  "sizeMB": 429.04973220825195,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -721,6 +721,7 @@
     "1100_heliattack",
     "thursgay-closing-ceremony",
     "beingone2",
-    "1100_col_jump"
+    "1100_col_jump",
+    "1100_foot"
   ]
 }
