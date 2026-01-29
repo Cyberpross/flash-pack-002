@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 468.14758586883545,
+  "sizeMB": 470.1944637298584,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -744,6 +744,7 @@
     "3dfieldgoalgames",
     "flash-games_202503",
     "2403-robot-territories",
-    "2151-pixel-mission"
+    "2151-pixel-mission",
+    "2497-cube-combat"
   ]
 }
