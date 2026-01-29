@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 396.9665832519531,
+  "sizeMB": 398.0920886993408,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -699,6 +699,7 @@
     "island-defense-18034",
     "spiderman-dangerous-ride",
     "skyfish",
-    "sm63-2009-leveldesigner"
+    "sm63-2009-leveldesigner",
+    "blast_attack_flash"
   ]
 }
