@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 907.1172475814819,
+  "sizeMB": 907.5073566436768,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -961,6 +961,7 @@
     "interactive-buddy-2-prototype-version",
     "papas-cheeseria-hard-mode-mod",
     "piewar",
-    "pillow-city-revelation"
+    "pillow-city-revelation",
+    "piano_flash"
   ]
 }
