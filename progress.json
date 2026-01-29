@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 403.4424018859863,
+  "sizeMB": 403.63378524780273,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -707,6 +707,7 @@
     "catch_",
     "robot_202101",
     "bubble_shooter",
-    "bubble_trouble_202107"
+    "bubble_trouble_202107",
+    "spaceballs_202405"
   ]
 }
