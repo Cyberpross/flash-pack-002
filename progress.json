@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 916.4581909179688,
+  "sizeMB": 932.0616102218628,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -972,6 +972,7 @@
     "mall-brawl",
     "dressupkirby",
     "secret-sheep-level",
-    "shredoku"
+    "shredoku",
+    "ruffle-nightly-2021_05_19-web-selfhosted"
   ]
 }
