@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 470.77811431884766,
+  "sizeMB": 471.0864610671997,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -749,6 +749,7 @@
     "2543-minotaur",
     "1100_arcanoid",
     "1100_desert_battle",
-    "1100_digininja_beta_v_1_0"
+    "1100_digininja_beta_v_1_0",
+    "1100_duck_hunt"
   ]
 }
