@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 445.50706577301025,
+  "sizeMB": 446.56103897094727,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -736,6 +736,7 @@
     "1100_alien_attack",
     "1100_caps",
     "1100_congestion_chaos",
-    "1100_turbo_spirit"
+    "1100_turbo_spirit",
+    "1943-robo-slug-download"
   ]
 }
