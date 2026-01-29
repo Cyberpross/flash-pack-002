@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 932.0616102218628,
+  "sizeMB": 940.7610301971436,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -973,6 +973,7 @@
     "dressupkirby",
     "secret-sheep-level",
     "shredoku",
-    "ruffle-nightly-2021_05_19-web-selfhosted"
+    "ruffle-nightly-2021_05_19-web-selfhosted",
+    "papa-louie-2-game"
   ]
 }
