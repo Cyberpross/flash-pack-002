@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 119.2111463546753,
+  "sizeMB": 119.4984827041626,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -605,6 +605,7 @@
     "winx-club-flight-training",
     "defender_20220404",
     "destroythevillage",
-    "donut-empire"
+    "donut-empire",
+    "dodgethedot_flash"
   ]
 }
