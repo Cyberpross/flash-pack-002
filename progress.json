@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 446.5875883102417,
+  "sizeMB": 446.6610355377197,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -738,6 +738,7 @@
     "1100_congestion_chaos",
     "1100_turbo_spirit",
     "1943-robo-slug-download",
-    "620_20250416"
+    "620_20250416",
+    "2613-realistic-internet-simulator"
   ]
 }
