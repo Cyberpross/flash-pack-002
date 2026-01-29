@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 996.8441295623779,
+  "sizeMB": 997.531268119812,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1005,6 +1005,7 @@
     "blending-tests_flash",
     "beatz-editor",
     "phoenix-wright-tbat",
-    "barbie-puzzle-set"
+    "barbie-puzzle-set",
+    "bravo_twist"
   ]
 }
