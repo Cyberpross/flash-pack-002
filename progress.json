@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 522.3066101074219,
+  "sizeMB": 522.3438405990601,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -776,6 +776,7 @@
     "286025-sonic-rpg-3-2nd-with-drago",
     "1100_bruce_lee",
     "1100_city_jumper",
-    "1100_tsunami"
+    "1100_tsunami",
+    "1100_worm_food"
   ]
 }
