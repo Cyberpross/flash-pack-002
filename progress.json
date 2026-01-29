@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 404.18750953674316,
+  "sizeMB": 404.8675422668457,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -709,6 +709,7 @@
     "bubble_shooter",
     "bubble_trouble_202107",
     "spaceballs_202405",
-    "tsrsmash-bros-engine-as-3"
+    "tsrsmash-bros-engine-as-3",
+    "voo-sobre-as-cataratas"
   ]
 }
