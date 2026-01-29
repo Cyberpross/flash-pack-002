@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 431.4989471435547,
+  "sizeMB": 431.64338397979736,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -728,6 +728,7 @@
     "1100_knasanoid",
     "1100_bogan_surf",
     "1100_forest_waterfall",
-    "1100_spindle"
+    "1100_spindle",
+    "1100_Memory"
   ]
 }
