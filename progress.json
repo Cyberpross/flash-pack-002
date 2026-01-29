@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 470.2592468261719,
+  "sizeMB": 470.29276180267334,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -746,6 +746,7 @@
     "2403-robot-territories",
     "2151-pixel-mission",
     "2497-cube-combat",
-    "2543-minotaur"
+    "2543-minotaur",
+    "1100_arcanoid"
   ]
 }
