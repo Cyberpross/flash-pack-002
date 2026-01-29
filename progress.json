@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 402.41959857940674,
+  "sizeMB": 402.85409927368164,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -705,6 +705,7 @@
     "burger-tycoon",
     "capoeira-fighter-3",
     "catch_",
-    "robot_202101"
+    "robot_202101",
+    "bubble_shooter"
   ]
 }
