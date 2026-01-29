@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 444.6814908981323,
+  "sizeMB": 444.8678140640259,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -734,6 +734,7 @@
     "1100_FieldGoal",
     "1100_SpaceDude",
     "1100_alien_attack",
-    "1100_caps"
+    "1100_caps",
+    "1100_congestion_chaos"
   ]
 }
