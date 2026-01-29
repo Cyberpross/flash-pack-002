@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 126.9880952835083,
+  "sizeMB": 127.34631156921387,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -612,6 +612,7 @@
     "gatesvsjobs",
     "frenzy-airport",
     "flocker",
-    "garage-escape_"
+    "garage-escape_",
+    "flash_steppinstones"
   ]
 }
