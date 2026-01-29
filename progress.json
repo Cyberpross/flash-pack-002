@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 443.55410861968994,
+  "sizeMB": 443.8906145095825,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -731,6 +731,7 @@
     "1100_spindle",
     "1100_Memory",
     "1455265518",
-    "1100_FieldGoal"
+    "1100_FieldGoal",
+    "1100_SpaceDude"
   ]
 }
