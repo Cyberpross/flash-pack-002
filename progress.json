@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 235.69462966918945,
+  "sizeMB": 235.90244102478027,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -640,6 +640,7 @@
     "barnburner",
     "ultrablock",
     "astro-barrier",
-    "athlethics"
+    "athlethics",
+    "skijump-2001"
   ]
 }
