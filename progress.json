@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 129.16091442108154,
+  "sizeMB": 129.52531051635742,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -618,6 +618,7 @@
     "1100_alias_2",
     "1100_americans_army_m16_field_training",
     "1100_cyber_slots",
-    "1100_flash_shooting_gallery"
+    "1100_flash_shooting_gallery",
+    "1100_soap_bubble"
   ]
 }
