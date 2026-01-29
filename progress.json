@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 375.25867557525635,
+  "sizeMB": 375.37411403656006,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -688,6 +688,7 @@
     "csi_2",
     "chronotron",
     "debora-tartas-eva-robles-h",
-    "spyro-shadow-legacy_flash"
+    "spyro-shadow-legacy_flash",
+    "dogears_v2"
   ]
 }
