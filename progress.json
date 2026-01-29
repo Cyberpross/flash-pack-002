@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 1005.7737274169922,
+  "sizeMB": 1008.7831888198853,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1014,6 +1014,7 @@
     "1100_portal_fighter",
     "1100_treasure_hunt",
     "chocobos-classmate",
-    "cubed_game"
+    "cubed_game",
+    "elasticity_flash"
   ]
 }
