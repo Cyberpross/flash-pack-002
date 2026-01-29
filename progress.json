@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 951.7406854629517,
+  "sizeMB": 957.5270328521729,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -986,6 +986,7 @@
     "1100_present_panic",
     "pou-valentines-slacking",
     "round_world",
-    "miffypuzzle"
+    "miffypuzzle",
+    "new_20250308"
   ]
 }
