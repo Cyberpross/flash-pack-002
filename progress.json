@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 294.2969779968262,
+  "sizeMB": 294.73261165618896,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -665,6 +665,7 @@
     "game_20210310",
     "doll_dress_up_3",
     "edgyWedgy2",
-    "doughnut_202405"
+    "doughnut_202405",
+    "early-test-build"
   ]
 }
