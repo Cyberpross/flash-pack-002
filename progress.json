@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 403.63378524780273,
+  "sizeMB": 404.18750953674316,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -708,6 +708,7 @@
     "robot_202101",
     "bubble_shooter",
     "bubble_trouble_202107",
-    "spaceballs_202405"
+    "spaceballs_202405",
+    "tsrsmash-bros-engine-as-3"
   ]
 }
