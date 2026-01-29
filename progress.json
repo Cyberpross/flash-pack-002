@@ -1,6 +1,6 @@
 {
   "pack": 2,
-  "sizeMB": 957.5270328521729,
+  "sizeMB": 966.344913482666,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -987,6 +987,7 @@
     "pou-valentines-slacking",
     "round_world",
     "miffypuzzle",
-    "new_20250308"
+    "new_20250308",
+    "nokken-maker"
   ]
 }
